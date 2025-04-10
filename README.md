@@ -16,3 +16,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </div>
 
+![Snake animation](https://github.com/jessicaaguimaraes/jessicaaguimaraes/blob/output/github-contribution-grid-snake.svg)
