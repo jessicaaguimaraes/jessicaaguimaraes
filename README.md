@@ -1,14 +1,23 @@
 ## Hi Everyone! I'm Jéssica Guimarães
 
-- 🔭 I’m currently working in career transition
-- 🌱 I’m currently learning programming languages, HTML5 and CSS3
-- 📫 How to reach me: [Meu perfil do Linkdln](https://www.linkedin.com/feed/?trk=)
-- 😄 Pronouns: She/her
-- ⚡ Fun fact:I love playing volleyball but I'm a terrible player
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJvMGI0M28wYnU4ajF4ajNmNDR4OHpmMmJqMjg0bWFvbmI4eWs0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iDvCzaRjNV61J5jtc0/giphy.gif" width="300" align="right" alt="Alien piscando" />
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicaaguimaraes&show_icons=true&rank_icon=github&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaaguimaraes&layout=compact&theme=radical" />
+<ul>
+  <li>🔭 I’m currently working in career transition</li>
+  <li>🌱 I’m currently learning programming languages, HTML5 and CSS3</li>
+  <li>📫 How to reach me: <a href="https://www.linkedin.com/feed/?trk=" target="_blank">My profile LinkedIn</a></li>
+  <li>😄 Pronouns: She/her</li>
+  <li>⚡ Fun fact: I love playing volleyball but I'm a terrible player</li>
+</ul>
+
+
+</div>
+
+
+
+<div align="left">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=jessicaaguimaraes&show_icons=true&rank_icon=github&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaaguimaraes&layout=compact&theme=radical" />
 </div>
 
 <div>
