@@ -1,6 +1,9 @@
 ## Hi Everyone! I'm Jéssica Guimarães
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJvMGI0M28wYnU4ajF4ajNmNDR4OHpmMmJqMjg0bWFvbmI4eWs0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iDvCzaRjNV61J5jtc0/giphy.gif" width="300" align="right" alt="Alien piscando" />
+<img src="https://raw.githubusercontent.com/jessicaaguimaraes/jessicaaguimaraes/54cfa2f6f04621c891b6b1fa20200c7a80a2cca8/gif%20do%20caf%C3%A9.gif" width="500" align="right" alt="eu tomando um chá" />
+
+
+
 
 <ul>
   <li>🔭 I’m currently working in career transition</li>
@@ -10,19 +13,21 @@
   <li>⚡ Fun fact: I love playing volleyball but I'm a terrible player</li>
 </ul>
 
-
-</div>
-
-
+<br><br>
+<br><br>
+<br><br>
 
 <div align="left">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jessicaaguimaraes&show_icons=true&rank_icon=github&theme=radical" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaaguimaraes&layout=compact&theme=radical" />
+
 </div>
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+
 </div>
 
 ![Snake animation](https://github.com/jessicaaguimaraes/jessicaaguimaraes/blob/output/github-contribution-grid-snake.svg)
