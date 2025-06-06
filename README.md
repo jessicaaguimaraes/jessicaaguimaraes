@@ -1,6 +1,6 @@
 ## Hi Everyone! I'm Jéssica Guimarães
 
-<img src="https://raw.githubusercontent.com/jessicaaguimaraes/jessicaaguimaraes/54cfa2f6f04621c891b6b1fa20200c7a80a2cca8/gif%20do%20caf%C3%A9.gif" width="500" align="right" alt="eu tomando um chá" />
+<img src="https://raw.githubusercontent.com/jessicaaguimaraes/jessicaaguimaraes/54cfa2f6f04621c891b6b1fa20200c7a80a2cca8/gif%20do%20caf%C3%A9.gif" width="400" align="right" alt="eu tomando um chá" />
 
 
 
