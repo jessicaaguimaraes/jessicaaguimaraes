@@ -18,8 +18,8 @@
 <br><br>
 
 <div align="left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jessicaaguimaraes&show_icons=true&rank_icon=github&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaaguimaraes&layout=compact&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jessicaaguimaraes&show_icons=true&rank_icon=github&theme=radical" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaaguimaraes&layout=compact&theme=radical" />
 
 </div>
 
