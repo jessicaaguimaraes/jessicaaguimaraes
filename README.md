@@ -7,7 +7,7 @@
 
 <ul>
   <li>🔭 I’m currently working in career transition</li>
-  <li>🌱 I’m currently learning programming languages, HTML5 and CSS3</li>
+  <li>🌱 I’m currently learning programming languages, right now, I'm very curious about Java.</li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/feed/?trk=" target="_blank">My profile LinkedIn</a></li>
   <li>😄 Pronouns: She/her</li>
   <li>⚡ Fun fact: I love playing volleyball but I'm a terrible player</li>
@@ -20,7 +20,9 @@
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 
 </div>
 
